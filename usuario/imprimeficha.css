@@ -1,0 +1,19 @@
+body{
+	
+	font-family: 'Barlow Condensed', sans-serif;
+	
+}
+
+.row{
+	
+	background-color:#ff0000;
+	width:500px;
+	height:500px;
+	
+}
+
+h1{
+	
+	font-size:100px;
+	
+}
